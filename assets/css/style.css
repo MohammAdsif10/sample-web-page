@@ -1,0 +1,172 @@
+.background
+    {
+    
+    background:url(../images/vita-vilcina-VMLGC5A3QTE-unsplash.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    }
+
+  
+    .navbar-nav > li > a {
+    padding-top: 15px;
+    padding-bottom: 15px;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+.navbar-brand{
+    color: black;
+}
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus {
+    color:white;
+    background-color:#63bde6 ;}
+.navbar-default .navbar-nav > li > a {
+    color: black;
+
+}
+#content{
+    text-align: center;
+    padding-top:250px;
+    color: white;
+} 
+.content-bottum{
+    text-align: center;
+    margin-top: 25%;
+    background-color: #63bde6;
+    
+}
+    .content-bottum:hover{
+        background-color: #63bde6;
+    
+    }
+    .service-icon{
+        border-radius: 100%;
+        background-color:#63bde6 ;
+        color: white;
+        width: 80px;
+        height: 80px;
+        padding-top: 20px;
+}
+    .service-div{
+        text-align: center;
+       margin-top: 50px;
+        margin-bottom: 50px;
+        
+    }
+    .tumnail-div{
+        background-color:#2e3e4e ;
+        color: white;
+    }
+    .botton-right
+    {
+        float: right;
+        color: white;
+        background-color: #63bde6;
+        border: none;
+        margin-top: 50px;
+        border-radius: 4px;
+    }
+    .h3-div{
+        color: #f58560;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    .h2-div{
+        color: #f58560;
+       
+
+    }
+    .button-colour
+    {
+        background-color: #f58560;
+        color: white;
+        
+    }
+    .button-colour2{
+        background-color:#63bde6 ;
+        color: white;
+        float: right;
+        border-radius: 4px;
+        border: none;
+        margin-bottom: 40px;
+    }
+    .p-pading{
+        margin-bottom: 50px;
+    }
+    .h1-colour{
+        color:#63bde6 ;
+        text-align: center;
+        margin-top: 50px;
+        
+    }
+    .p-center{
+        text-align: center;
+    }
+    .h3-colour-div{
+        color:#63bde6  ;
+    }
+    hr{
+        border-bottom: 2px solid black;
+    }
+    .h2-last{
+        text-align: center;
+        margin-bottom: 30px;
+    }
+    .h4-colour
+    {
+        text-align: center;
+        color: #f58560;
+        margin-bottom: 30px;
+     }
+    
+     .images-div{
+         text-align: center;
+         margin-bottom: 40px;
+     }
+     .footer-div{
+         background-color:#2e3e4e ;
+         color: white;
+     }
+     .h3-footer{
+         margin-top: 50px;
+         margin-bottom:40px;
+
+         color: #f58560;
+     }
+     .span-footer{
+         color:#63bde6  ;
+     }
+    #email{
+        width: 100%;
+        border-radius: 4px;
+        color: black;
+    }
+    .button-footer{
+        float: right;
+        background-color:#63bde6 ;
+        border-radius: 4px;
+        margin-top: 20px;
+        border: none;
+    }
+    .footer-box{
+        height: 65px;
+        background-color: white;
+        margin-left: 15px;
+
+    }
+    .icon-footer-div{
+        color: #63bde6 ;
+        margin-bottom: 25px;
+        margin-right: 25px;
+
+
+    }
+    .last-space{
+        margin-bottom: 50px;
+    }
+   
+
+
+  
